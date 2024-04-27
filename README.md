@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone, I am Bobby! 👋
 
 <!--
 **lwtb7801/lwtb7801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi everyone, I am Bobby! Please check my AWS, Google Cloud bages and Kaggle certificates in my LinkedIn: https://www.linkedin.com/in/bobby-lo-814707251
-I love machine learning and data science! During my Master's in Health Informatics, I developed a strong interest in artificial intelligence, software engineering and their applications in healthcare. I am passionate about using data science to solve real-world problems and therefore I keep studying on programming, cloud computing and machine learning. I am eager to contribute my skills to a team focused on developing innovative solutions using machine learning and data science.
+## Please check my AWS, Google Cloud bages and Kaggle certificates in my LinkedIn: https://www.linkedin.com/in/bobby-lo-814707251
+
+# I love machine learning and data science! During my Master's in Health Informatics, I developed a strong interest in artificial intelligence, software engineering and their applications in healthcare. I am passionate about using data science to solve real-world problems and therefore I keep studying on programming, cloud computing and machine learning. I am eager to contribute my skills to a team focused on developing innovative solutions using machine learning and data science.
